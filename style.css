@@ -1,0 +1,46 @@
+body {
+    background-color: lightpink;
+}
+
+.judul {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: slateblue;
+    text-align: center;
+}
+
+.deskripsi {
+    font-size: 18px;
+    text-align: center;
+}
+
+.tabel1, tr,td{
+    border: 10px solid cadetblue;
+    width: 60%;
+    margin:0 auto ;
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #2d3436;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #636e72;
+}
+.banner{margin: 0 auto;
+display: block;}
